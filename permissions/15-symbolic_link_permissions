@@ -1,0 +1,2 @@
+#!/bin/bash
+chown vincent:staff /root/holbertonschool-shell/permissions/_hello
