@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff /root/holbertonschool-shell/permissions/_hello
+chown -h vincent:staff /root/holbertonschool-shell/permissions/_hello
