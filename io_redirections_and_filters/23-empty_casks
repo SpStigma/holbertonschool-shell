@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -depth -empty -type f -o -type d
+find . -depth -empty -type f -o -type d | cut -d "/" -f 2
