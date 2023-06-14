@@ -1,2 +1,3 @@
 #!/bin/bash
-find . -depth -empty -type f -o -type d | cut -d "/" -f 2
+find . -depth \( -empty -type f \) -o \( -type d -empty \)
+
