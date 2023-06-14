@@ -1,3 +1,2 @@
 #!/bin/bash
 find . -depth \( -empty -type f \) -o \( -type d -empty \)
-
